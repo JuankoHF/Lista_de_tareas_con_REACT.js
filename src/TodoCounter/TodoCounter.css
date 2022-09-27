@@ -1,0 +1,12 @@
+.TodoCounter {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 0;
+  background-color: rgb(129, 181, 91);
+  padding: 20px 48px 20px 48px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  font-weight: 700;
+  color: bisque;
+  border-bottom: solid 2px  bisque;
+  box-shadow: 0px 5px 30px rgba(48, 149, 77, 0.49);
+}
