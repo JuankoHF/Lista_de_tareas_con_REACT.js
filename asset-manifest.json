@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lista_de_tareas_con_REACT.js/static/css/main.a5233a93.css",
+    "main.js": "/Lista_de_tareas_con_REACT.js/static/js/main.fce19c12.js",
+    "index.html": "/Lista_de_tareas_con_REACT.js/index.html",
+    "static/media/check.svg": "/Lista_de_tareas_con_REACT.js/static/media/check.d3edcd71ec220c838937.svg",
+    "static/media/cerrarHover.svg": "/Lista_de_tareas_con_REACT.js/static/media/cerrarHover.454fa415fb7c3cb76c9d.svg",
+    "static/media/checkado.svg": "/Lista_de_tareas_con_REACT.js/static/media/checkado.9443b590e22ac6a0ad5b.svg",
+    "main.a5233a93.css.map": "/Lista_de_tareas_con_REACT.js/static/css/main.a5233a93.css.map",
+    "main.fce19c12.js.map": "/Lista_de_tareas_con_REACT.js/static/js/main.fce19c12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5233a93.css",
+    "static/js/main.fce19c12.js"
+  ]
+}
